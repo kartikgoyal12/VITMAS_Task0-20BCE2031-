@@ -36,6 +36,3 @@ To update remote refs along with associated projects.
 
 ## git merge
 Integrates branches together.
-
-# Video Link
-https://youtu.be/mQZEOzewHtk
